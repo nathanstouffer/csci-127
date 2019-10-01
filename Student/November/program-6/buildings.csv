@@ -1,0 +1,123 @@
+Building Number,Name,Fire Sprinklers,Seismic Retrofit,Backup Power,HazMat Risk,Year Built,Square Feet,Building Value,Contents Value,Construction Class,Historic Building
+11,AJM Johnson Hall,N,N,Partial,H,1954,41622,8665172,4572509,B,Y
+13,Animal Bioscience Building,Y,N,Y,H,2010,40634,9596640,8140350,C,N
+18,Bart Farm Shop,N,N,N,H,2008,3693,460442,104299,D,N
+19,Black Box Theatre,Y,N,N,L,2007,14300,1827875,356265,A,N
+30,Chem Stores No. Storage Container #1,N,N,N,H,2008,198,6673,3465,D,N
+31,Chem Stores So. Storage Container #2,N,N,N,H,2008,198,6673,3465,D,N
+32,Chemistry Biochemistry Building,Y,N,Y,H,2007,90037,21743861,19729444,A,N
+35,Chemistry Stores,N,N,N,H,2009,756,43963,13360,D,N
+36,Cobleigh Hall,N,N,Y,H,1970,94262,22706490,10259516,B,N
+37,Cooley Laboratory,Y,N,Y,H,1960,38143,6266969,768209,B,N
+38,Creative Arts Complex - Cheever Hall,N,N,N,M,1974,60500,15622064,7058526,B,N
+39,Creative Arts Complex - Haynes Hall,N,N,N,M,1974,44600,8437262,4657809,B,N
+40,Creative Arts Complex-Howard Hall,N,N,N,M,1974,31216,6626935,3219414,B,N
+41,Culbertson Hall,N,N,N,L,1955,48639,11764339,5409630,B,Y
+42,Danforth Chapel,N,N,N,L,1952,1560,583302,43584,E,Y
+45,Engineering Physical Sciences Building,Y,N,Y,H,1996,151388,38581845,16674525,A,N
+46,Facilities Chemical Storage,N,N,N,H,2010,619,12073,6110,D,N
+1,11 Faculty Court,N,N,Y,L,1999,2220,214331,51200,D,N
+2,13 Faculty Court,N,N,Y,L,1999,2220,229477,54865,D,N
+3,15 Faculty Court,N,N,Y,L,1996,2084,208166,412717,D,N
+5,21 Faculty Court,N,N,Y,M,1957,1043,113803,106334,D,Y
+6,22 Faculty Court,N,N,Y,L,1957,1043,113803,551,D,Y
+7,23 Faculty Court,N,N,Y,L,1957,1043,113803,551,D,Y
+8,24 Faculty Court,N,N,Y,L,1957,1043,113803,551,D,Y
+9,25 Faculty Court,N,N,Y,L,1957,1043,113803,551,D,Y
+47,Facilities Heat Plant Generator Building,N,N,N,L,1922,719,68282,20030,D,Y
+50,Gaines Hall,Y,N,Y,H,1961,96993,23278320,8334528,B,N
+56,Hamilton Hall,N,Partial,N,H,1910,28013,6322254,3069274,C,Y
+59,Heating (Physical) Plant,N,Y,Y,H,1923,11616,1817326,1566955,C,Y
+60,Herrick Hall,N,N,N,H,1926,41286,9571171,4467868,C,Y
+61,Huffman Building,N,N,Y,M,1969,8843,1454466,205514,C,N
+64,Johnson Family Livestock (BSL2),Y,N,Y,H,2008,14436,3104311,1574751,H,N
+69,Jutila Res Laboratory (BSL3),Y,N,Y,H,2007,3563,2730323,352999,A,N
+72,Leon Johnson Hall,Y,N,Y,H,1973,117522,28671107,12391304,B,N
+73,Lewis Hall,Y,N,N,H,1923,44188,10361440,4660761,B,Y
+74,Linfield Hall,N,N,N,H,1909,38705,9929719,7252945,C,Y
+75,Linfield Hall South,N,N,N,H,1952,31233,8012786,665575,C,Y
+81,McCall Hall,N,N,Partial,H,1952,10528,2045758,1160202,C,Y
+84,Molecular Beam Facility,N,N,N,M,1972,1459,96164,104478,D,N
+85,Molecular Beam Modular,N,N,N,L,2001,624,96164,551,E,N
+86,Molecular Biosciences Building,Y,N,N,H,2004,38733,0,4384418,E,N
+87,Montana Hall,N,Partial,N,L,1896,39595,9776416,4394580,C,Y
+88,Museum of the Rockies,Y,N,Y,M,1987,97724,20000076,4910859,A,N
+96,Plant Bioscience Building,Y,N,Partial,H,1999,54948,9955338,4478149,C,N
+98,Plew Building,N,Y,N,M,1952,18086,2589524,388838,C,Y
+106,Reid Hall,N,N,N,M,1959,90982,23335697,10085353,A,Y
+107,Renne Library,Y,Y,Y,M,1949,158895,34229727,16971141,C,Y
+108,Roberts Hall,N,N,N,M,1922,49717,12404169,2726649,C,Y
+109,Romney Gymnasium,N,N,N,L,1922,57560,12869493,507321,B,Y
+113,Safety & Risk Management Building 1160 (Leased),N,N,Partial,H,1984,9328,1263240,577500,G,N
+114,Sherrick Hall,N,N,N,M,1973,18376,4480069,2024196,A,N
+128,Taylor Hall,Y,N,N,M,1896,9938,2095685,1017391,C,Y
+129,Tietz Hall,Y,N,Y,H,1985,20700,3074966,82857,C,N
+130,Traphagen Hall,N,N,N,M,1920,37433,8097068,4094706,C,Y
+131,Tunnel System,N,N,N,L,1995,86005,31335000,0,B,N
+133,Vet Clinic Building,N,N,N,H,1960,2527,235953,523882,C,Y
+134,Vet Quonset Livestock Shelter,N,N,N,M,1952,1004,7711,0,E,Y
+135,Visual Communications Building,N,N,Y,M,1983,41494,10964848,4359767,A,N
+139,Wilson Hall,N,N,Y,L,1974,80821,20739801,9370889,A,N
+140,Wool Lab,N,N,N,M,1947,7450,1063301,197065,D,Y
+4,1605 S. 5th Avenue,N,N,N,L,1957,1043,113803,551,D,Y
+14,ASMSU Outdoor Rec Building,N,N,N,L,2009,6972,626700,356265,C,N
+15,Atkinson Quadrangle Residence Hall A,Y,N,N,L,1935,6866,1157390,0,C,Y
+15,Atkinson Quadrangle Residence Hall B,Y,N,N,L,1935,6937,1157390,0,C,Y
+15,Atkinson Quadrangle Residence Hall C,Y,N,N,L,1935,7381,1270624,0,C,Y
+15,Atkinson Quadrangle Residence Hall D,Y,N,N,L,1935,7488,1270624,0,C,Y
+15,Atkinson Quadrangle Residence Hall E,Y,N,N,L,1935,7009,1162706,0,C,Y
+15,Atkinson Quadrangle Residence Hall F,Y,N,N,L,1935,6989,118206,8143,C,Y
+20,Bobcat Stadium Bleachers - South & West,N,N,Partial,L,1998,61394,6288903,1308306,A,N
+21,Bobcat Stadium East Bleachers & South End Zone,N,N,N,L,1973,60980,6742675,1380000,C,N
+22,Bobcat Stadium Metal Canopy,N,N,N,L,1997,4800,110132,0,F,N
+23,Bobcat Stadium Restroom South,N,N,N,L,1987,3217,440821,85457,C,N
+24,Bobcat Stadium Track Grandstand,N,N,N,L,2011,240,520058,143928,G,N
+25,Bobcat Stadium Track Storage,N,N,N,L,2011,1161,89397,24741,D,N
+26,"Bobcat Stadium Track Storage-Metal #1, #2",N,N,N,L,2012,840,28308,0,C,N
+27,Bobcat Stadium South End Zone,N,N,N,L,1973,80845,617571,1380000,C,N
+28,Branegan Court (48 Units In 8 Buildings),N,N,N,L,1976,42424,1696960,0,D,N
+29,Brick Breeden Fieldhouse,Y,Y,Y,L,1958,184452,33809212,9158861,C,Y
+44,East Julia Martin Dr. Apartments (64 Units in 11 Buildings),N,N,N,L,1968,48192,1927680,0,C,N
+48,Family Housing Office Building,N,N,N,M,1968,2709,484015,572,C,N
+49,Fox Street House (23 Units In 23 Buildings),N,N,N,L,1957,15548,621920,0,D,N
+51,Gallatin Hall,Y,N,N,L,2013,29990,8250000,250000,C,N
+52,Glacier Court 3 Bdrm (42 Units In 42 Buildings),N,N,N,L,1957,28392,1135680,0,D,N
+53,Gopher Street House (7 Units In 7 Buildings),N,N,N,L,1957,4732,189280,0,D,N
+55,Grant Chamberlain (144 Units In 6 Buildings),N,N,N,L,1975,122850,4914000,0,C,N
+57,Hannon Residence Hall (166 Units In 1 Buildings),Y,N,N,L,1955,90748,13315202,420698,C,Y
+58,Hapner Residence Hall (168 Units In 1 Buildings),Y,N,N,L,1959,95524,14862880,461414,C,Y
+62,Indoor Tennis Facility,N,N,N,L,2003,29183,3257273,466911,C,N
+65,Johnstone Center Residence Hall - Colter,Y,N,N,M,1955,28449,4842011,0,B,Y
+66,Johnstone Center Residence Hall-Harrison Dining Hall,Y,N,N,M,1955,27319,4649685,0,B,Y
+67,Johnstone Center Residence Hall - Mullan,Y,N,N,M,1955,28417,4836565,0,B,Y
+67,Johnstone Center Residence Hall - Pryor,Y,N,N,M,1955,52019,8853618,488490,B,Y
+71,Langford Residence Hall,Y,N,N,L,1960,104301,15604276,490628,C,Y
+76,Louise Shunk Daycare & Community Center,N,N,N,L,1987,3929,904140,64229,D,N
+77,Marga Hosaeus Fitness Center,Y,Y,N,M,1973,172128,24742220,6759569,C,N
+78,Marsh Lab Modular # 1,N,N,N,H,1998,2098,210537,228969,D,N
+79,Marsh Lab Modular # 2,N,N,N,H,2001,2283,210537,400695,D,N
+80,Marsh Laboratory,N,N,N,H,1961,31018,6256033,3451292,C,Y
+82,Mcintosh Court Townhouses (48 Units In 9 Buildings),N,N,N,L,1996,52932,2117280,0,D,N
+83,Miller Dining Hall,N,N,Y,L,1964,46624,9856947,2030609,B,N
+90,Nelson Story Tower Apartments (53 Units In 1 Building),Y,N,N,L,1968,38992,6371878,190754,B,N
+91,North Hedges Residence Hall (340 Units In 1 Building),Y,N,Y,L,1965,144080,21635251,646367,B,N
+92,North Hedges Suites #1 (67 Units In 1 Building),Y,N,N,L,1998,30034,3754403,0,D,N
+93,North Hedges Suites #2 (67 Units In 1 Building),Y,N,N,L,1998,30145,3754403,0,D,N
+94,Paisley Apt. (90 Units In 9 Buildings),N,N,N,L,1985,80397,3215880,0,D,N
+95,Peter Koch Tower Apartments (53 Units In 1 Building),Y,N,N,L,1968,39005,6371878,190754,B,N
+110,Roskie Residence Hall (255 Units In 1 Building),Y,N,Y,L,1966,92663,14537508,440751,B,N
+112,S. 15th Street Houses (10 Units In 10 Buildings),N,N,N,L,1957,6760,270400,0,D,N
+115,SOB Barn,N,N,N,L,1924,10919,993424,167546,D,Y
+117,South Hedges Residence Hall (320 Units In 1 Building),Y,N,Y,L,1965,137700,21635251,646367,B,N
+118,Stadium Concession Building # 1 Northeast,N,N,N,L,1997,280,47775,6107,A,N
+119,Stadium Concession Building # 2 Northwest,N,N,N,L,1997,280,34301,4377,A,N
+120,Stadium Home Locker Room-East,N,N,N,L,1997,2000,259234,12520,A,N
+121,Stadium Home Locker Room-West,N,N,N,L,1997,2000,259234,12520,A,N
+122,Stadium Restroom # 1 East,N,N,N,L,1997,1702,219972,0,A,N
+123,Stadium Restroom # 2 East,N,N,N,L,1997,1702,185065,0,A,N
+124,Stadium Ticket Booth-East,N,N,N,L,1997,75,7029,916,A,N
+125,Stadium Ticket Booth-North,N,N,N,L,1997,300,28181,3766,A,N
+126,Strand Union Building,Y,Y,N,M,1939,191407,46198235,19134281,A,Y
+127,Swingle Health Center,N,N,Y,M,1957,22213,4483203,2367432,C,N
+136,W. Garfield Street House (2 Units In 2 Buildings),N,N,N,L,1957,1352,54080,0,D,N
+137,West Julia Martin Drive Apartments (64 Units In 8 Buildings),N,N,N,L,1971,54880,2195200,0,C,N

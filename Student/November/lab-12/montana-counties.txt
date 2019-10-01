@@ -1,0 +1,58 @@
+4
+56
+Beaverhead County,9401
+Big Horn County,13343
+Blaine County,6601
+Broadwater County,5747
+Carbon County,10460
+Carter County,1203
+Cascade County,81755
+Chouteau County,5759
+Custer County,11924
+Daniels County,1755
+Dawson County,9327
+Deer Lodge County,9085
+Fallon County,3120
+Fergus County,11413
+Flathead County,98082
+Gallatin County,104502
+Garfield County,1310
+Glacier County,13694
+Golden Valley County,831
+Granite County,3368
+Hill County,16542
+Jefferson County,11853
+Judith Basin County,1940
+Lake County,29758
+Lewis and Clark County,67282
+Liberty County,2409
+Lincoln County,19259
+Madison County,7924
+McCone County,1700
+Meagher County,1827
+Mineral County,4184
+Missoula County,116130
+Musselshell County,4589
+Park County,16114
+Petroleum County,489 
+Phillips County,4133
+Pondera County,6084
+Powder River County,1746
+Powell County,6858
+Prairie County,1182
+Ravalli County,42088
+Richland County,11482
+Roosevelt County,11305
+Rosebud County,9287
+Sanders County,11534
+Sheridan County,3648
+Silver Bow County,34553
+Stillwater County,9406
+Sweet Grass County,3623
+Teton County,6056
+Toole County,4977
+Treasure County,692
+Valley County,7539
+Wheatland County,2117
+Wibaux County,1093
+Yellowstone County,158437

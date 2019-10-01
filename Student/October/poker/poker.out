@@ -1,0 +1,48 @@
+Poker Hand
+----------
+Card 1: Ace of Hearts
+Card 2: King of Hearts
+Card 3: Queen of Hearts
+
+Poker Hand Evaluation: FLUSH
+
+Poker Hand
+----------
+Card 1: Three of Diamonds
+Card 2: Three of Spades
+Card 3: Three of Clubs
+
+Poker Hand Evaluation: THREE OF A KIND
+
+Poker Hand
+----------
+Card 1: Two of Hearts
+Card 2: Two of Diamonds
+Card 3: Four of Hearts
+
+Poker Hand Evaluation: TWO OF A KIND
+
+Poker Hand
+----------
+Card 1: Five of Hearts
+Card 2: Six of Diamonds
+Card 3: Five of Clubs
+
+Poker Hand Evaluation: TWO OF A KIND
+
+Poker Hand
+----------
+Card 1: Seven of Hearts
+Card 2: Eight of Diamonds
+Card 3: Eight of Hearts
+
+Poker Hand Evaluation: TWO OF A KIND
+
+Poker Hand
+----------
+Card 1: Ten of Hearts
+Card 2: Nine of Diamonds
+Card 3: Jack of Hearts
+
+Poker Hand Evaluation: NOTHING
+
