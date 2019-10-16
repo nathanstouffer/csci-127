@@ -3,8 +3,6 @@
 # October 8, 2019                      |
 # Nathan Stouffer                      |
 # --------------------------------------
-
-import time
   
 ## function to determine the average magnitude
 ## of the earthquakes in the file
@@ -59,7 +57,8 @@ def earthquake_locations(file_name):
     print("Alphabetical Order of Earthquake Locations")
     print("------------------------------------------")
     for i in range(0, len(loc)):
-        print(str(i + 1) + ". " + loc[i])
+        output = ("{:>3}. " + loc[i]).format(str(i + 1))
+        print(output)
     print()
 
 ## function to determine the number of earthquakes
