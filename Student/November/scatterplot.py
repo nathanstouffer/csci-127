@@ -17,7 +17,7 @@ def main(graph_min, graph_max):
     plt.axis([0, 11, graph_min, graph_max])
     f, (plot1, plot2) = plt.subplots(1, 2, sharey = True)
 
-    x_values = np.aramge([1, 11)
+    x_values = np.arange([1, 11])
     plot1.ylabel("Student score")
     
     plot1.scatter(x_values, create_y_values(), color='r')

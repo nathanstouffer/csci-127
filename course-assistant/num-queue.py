@@ -23,7 +23,7 @@ class Queue():
 
     # method to pop from the beginning of the queue
     def dequeue(self):
-        return self.queue.pop()
+        return self.queue.pop(0)
 
     # method to tell if the queue is empty
     def is_empty(self):
